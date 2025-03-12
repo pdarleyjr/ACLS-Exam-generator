@@ -1,0 +1,3 @@
+[submodule "exam-generator"]
+	path = exam-generator
+	url = https://github.com/alexfdez1010/exam-generator.git
